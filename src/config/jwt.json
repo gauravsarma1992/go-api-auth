@@ -1,0 +1,5 @@
+{
+  "signing_key": "xMXVWQCNHd5o69FFZZpy",
+  "issuer": "go-api-auth-issuer",
+  "validity_in_minutes": 60
+}
